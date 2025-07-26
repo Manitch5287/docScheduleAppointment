@@ -1,0 +1,102 @@
+[
+  {
+    "id": "D001",
+    "name": "Dr. Sarah Collins",
+    "speciality": "Cardiologist",
+    "slots": [
+      "2025-08-01T09:00:00",
+      "2025-08-01T09:30:00",
+      "2025-08-01T10:00:00"
+    ]
+  },
+  {
+    "id": "D002",
+    "name": "Dr. Amit Patel",
+    "speciality": "Dermatologist",
+    "slots": [
+      "2025-08-01T11:00:00",
+      "2025-08-01T11:30:00",
+      "2025-08-01T12:00:00"
+    ]
+  },
+  {
+    "id": "D003",
+    "name": "Dr. Linda Nguyen",
+    "speciality": "Orthopedic Surgeon",
+    "slots": [
+      "2025-08-02T14:00:00",
+      "2025-08-02T14:30:00",
+      "2025-08-02T15:00:00"
+    ]
+  },
+  {
+    "id": "D004",
+    "name": "Dr. Hassan Al-Masri",
+    "speciality": "Endocrinologist",
+    "slots": [
+      "2025-08-03T10:00:00",
+      "2025-08-03T10:30:00",
+      "2025-08-03T11:00:00"
+    ]
+  },
+  {
+    "id": "D005",
+    "name": "Dr. Maria Gonzalez",
+    "speciality": "Pediatrician",
+    "slots": [
+      "2025-08-04T08:30:00",
+      "2025-08-04T09:00:00",
+      "2025-08-04T09:30:00"
+    ]
+  },
+  {
+    "id": "D006",
+    "name": "Dr. James Smith",
+    "speciality": "Neurologist",
+    "slots": [
+      "2025-08-04T13:00:00",
+      "2025-08-04T13:30:00",
+      "2025-08-04T14:00:00"
+    ]
+  },
+  {
+    "id": "D007",
+    "name": "Dr. Priya Sharma",
+    "speciality": "Gynecologist",
+    "slots": [
+      "2025-08-05T10:00:00",
+      "2025-08-05T10:30:00",
+      "2025-08-05T11:00:00"
+    ]
+  },
+  {
+    "id": "D008",
+    "name": "Dr. William Lee",
+    "speciality": "Psychiatrist",
+    "slots": [
+      "2025-08-06T15:00:00",
+      "2025-08-06T15:30:00",
+      "2025-08-06T16:00:00"
+    ]
+  },
+  {
+    "id": "D009",
+    "name": "Dr. Aisha Yusuf",
+    "speciality": "Allergist",
+    "slots": [
+      "2025-08-07T09:00:00",
+      "2025-08-07T09:30:00",
+      "2025-08-07T10:00:00"
+    ]
+  },
+  {
+    "id": "D010",
+    "name": "Dr. Robert Kim",
+    "speciality": "Gastroenterologist",
+    "slots": [
+      "2025-08-07T11:00:00",
+      "2025-08-07T11:30:00",
+      "2025-08-07T12:00:00"
+    ]
+  }
+]

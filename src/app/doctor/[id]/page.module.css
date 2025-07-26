@@ -1,0 +1,11 @@
+.page{
+  text-align: center;
+  padding: 50px;
+    background-color: rgb(230, 235, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-direction: column;
+    height: 100vh;
+}
